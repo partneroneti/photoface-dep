@@ -6,5 +6,4 @@
     <groupId>br.com.partner1</groupId>
     <artifactId>photoface-dep</artifactId>
     <version>1.0</version>
-    <packaging>aar</packaging>
 </project>
